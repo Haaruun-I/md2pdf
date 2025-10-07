@@ -1,6 +1,4 @@
-#  MD2PDF
-
-everyone needs pdfs, i hate making them. but i *do* like markdown,
+Everyone needs pdfs, I dont like making them. but I *do* like markdown,
 
 ```sh
 usage: md2pdf [-h] [-i INCLUDE] [-t TEMPLATE] [-v VERBOSE] input [output]
